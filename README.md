@@ -2,9 +2,9 @@
 
 #### Where and When
 
-This repository is home to the code that accompanies Jon Krohn's *Machine Learning Foundations* series of tutorials. From May 2020 through September 2020, these tutorials will initially be rolled out as eight 3.5-hour-long [live online trainings in the O'Reilly learning platform](https://www.oreilly.com/search/?query=machine%20learning%20foundations&formats=live%20online%20training&sort=relevance). In parallel, the content will be rolled out as free videos via [Jon Krohn's YouTube channel](https://www.youtube.com/channel/UCup-fnSNRaByeuXOWqfnykw). 
+This repository is home to the code that accompanies Jon Krohn's *Machine Learning Foundations* series of tutorials. From May 2020 through September 2020, these tutorials were rolled out as eight 3.5-hour-long [live online trainings in the O'Reilly learning platform](https://www.oreilly.com/search/?query=machine%20learning%20foundations&formats=live%20online%20training&sort=relevance). Separately, the content is being rolled out as free, professionally-edited videos via Jon Krohn's [*ML Foundations* YouTube playlist](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a). 
 
-To stay informed of upcoming live trainings and new videos as they're released onto YouTube consider: 
+To stay informed of future live trainings and new video releases consider: 
 
 * Signing up for Jon Krohn's [email newsletter via his homepage](https://www.jonkrohn.com/)
 * Or, remembering to check for updates on his [talks page](https://www.jonkrohn.com/talks)
@@ -13,7 +13,7 @@ To stay informed of upcoming live trainings and new videos as they're released o
 
 The *Machine Learning Foundations* series provides a comprehensive overview of all of the foundational subjects -- mathematics, statistics, and computer science -- that underlie contemporary machine learning approaches, including deep learning and other artificial intelligence techniques. 
 
-The eight topics in the series are organized into four couplets: 
+The eight subjects in the series are organized into four couplets: 
 
 * **Linear Algebra**
    * [Intro to Linear Algebra](https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/1-intro-to-linear-algebra.ipynb)
@@ -28,7 +28,7 @@ The eight topics in the series are organized into four couplets:
    * [Algorithms & Data Structures](https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/7-algos-and-data-structures.ipynb)
    * [Optimization](https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/8-optimization.ipynb)
    
-Later topics build upon content from earlier topics, so the recommended approach is to progress through the eight topics in the order provided. That said, you're welcome to pick and choose individual topics based on your interest or existing familiarity with the material.
+Later subjects build upon content from earlier subjects, so the recommended approach is to progress through the eight subjects in the order provided. That said, you're welcome to pick and choose individual subjects based on your interest or existing familiarity with the material.
 
 #### Pedagogical Approach
 
@@ -59,3 +59,7 @@ All code demos will be in Python so experience with it or another object-oriente
 All code is provided within Jupyter notebooks [in this directory](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/). 
 
 These notebooks are intended for use within the (free) [Colab cloud environment](https://colab.research.google.com). However, if you're keen to run them locally, you're welcome to do so (for the Jupyter uninitiated, check out [the installation instructions here](https://github.com/jonkrohn/DLTFpT/tree/master/installation) for guidance). 
+
+Finally, here's an illustration of Oboe, the *Machine Learning Foundations* mascot, created by the wonderful artist Aglaé Bassens: 
+
+![Oboe](https://github.com/jonkrohn/ML-foundations/blob/master/img/Oboe.jpg)
